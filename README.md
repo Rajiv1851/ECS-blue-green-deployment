@@ -2,7 +2,7 @@
 # Using Amazon ECS blue-green deployment
 
 This project demonstrates a blue/green deployment strategy for deploying a web application using AWS ECS (Elastic Container Service). The blue/green deployment approach allows seamless updates with minimal downtime, ensuring a reliable and scalable deployment process.
-![env_before](https://www.pulumi.com/blog/pulumi-kubernetes-operator/blue-green.png)
+![env_before](https://github.com/Rajiv1851/ECS-blue-green-deployment/img/ecs-blue-green.png)
 
 
 ## Architecture of project:
