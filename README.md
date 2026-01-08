@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Using Amazon ECS blue-green deployment
 
 This project demonstrates a blue/green deployment strategy for deploying a web application using AWS ECS (Elastic Container Service). The blue/green deployment approach allows seamless updates with minimal downtime, ensuring a reliable and scalable deployment process.
